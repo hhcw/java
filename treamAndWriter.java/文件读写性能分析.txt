@@ -1,0 +1,4 @@
+使用DataOutputStream写入文件耗时：4840毫秒
+使用OutputStreamWriter写入文件耗时：284毫秒
+使用DataInputStream读取文件耗时：621毫秒
+使用InputStreamReader读取文件耗时：160毫秒
